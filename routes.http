@@ -1,0 +1,27 @@
+POST http://localhost:3333/videos
+Content-Type: application/json
+
+{
+    "tittle": "Video 01",
+    "description": "nosso primeiro video",
+    "duration": 180
+}
+
+###
+
+GET http://localhost:3333/videos?search=node
+
+###
+
+PUT http://localhost:3333/videos/
+Content-Type: application/json
+
+{
+    "tittle": "Palmeiras nao tem mundial hahaha",
+    "description": "deu certo lek",
+    "duration": 180
+}
+
+###
+DELETE  http://localhost:3333/videos/70d59c56-55ce-4c7b-af68-90b9fb2e1b65
+
