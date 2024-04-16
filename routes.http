@@ -1,4 +1,4 @@
-POST http://localhost:3333/videos
+POST https://projetonode-5utl.onrender.com/videos
 Content-Type: application/json
 
 {
@@ -9,19 +9,19 @@ Content-Type: application/json
 
 ###
 
-GET http://localhost:3333/videos
+GET https://projetonode-5utl.onrender.com/videos
 
 ###
 
-PUT http://localhost:3333/videos/170c6dd9-90ca-446b-8f34-ea8ba0c308c4
+PUT https://projetonode-5utl.onrender.com/videos/ef7752cf-b4f3-417e-a69e-f1ca4ac0a22e
 Content-Type: application/json
 
 {
     "title": "nosso primeiro vídeo",
-    "description": "deu certo! =D",
+    "description": "deu certo no Renderrrr tambémm =D",
     "duration": 180
 }
 
 ###
-DELETE http://localhost:3333/videos/9a74648f-7c16-4a3d-83e0-fdb0ede50c27
+DELETE https://projetonode-5utl.onrender.com/videos/c47744b9-9cbe-4839-a0ff-6b5936478c84
 
