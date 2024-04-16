@@ -3,6 +3,8 @@ import postgres from 'postgres'
 
 let { PGHOST, PGDATABASE, PGUSER, PGPASSWORD, ENDPOINT_ID } = process.env;
 
+//db
+
 export const sql = postgres({
   host: PGHOST,
   database: PGDATABASE,
