@@ -11,7 +11,7 @@ realizar essas movimentações de forma única para o vídeo escolhido.
 # Frameworks 👾
 > Fastify
 
-Framework muito utilizado separar as rotas por chamadas da aplicação, de forma a organizar esse requerimento.
+Framework muito utilizado para separar as rotas por chamadas da aplicação, de forma a organizar esse requerimento.
 
 # CRUD
 - Rotas
