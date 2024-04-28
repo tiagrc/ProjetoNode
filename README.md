@@ -5,7 +5,7 @@
 ### Sobre o projeto 📚
 Nessa aplicação Node.JS, tem como os principais objetivos, criar vídeos com ID único, listar os vídeos criados, atualizar e deletar,
 para o desenvolvimento desses métodos, tivemos a criação de uma API REST; CRUD; Framework; banco de dados em memória e físico, utilizando o Postgres.
-Esse back-end foi criado pensando em uma bando de dados que possa armazenar, listar, atualizar e deletar vídeos, seguindo seu ID de identificação para então
+Esse back-end foi criado pensando em um banco de dados que possa armazenar, listar, atualizar e deletar vídeos, seguindo seu ID de identificação para então
 realizar essas movimentações de forma única para o vídeo escolhido.
 
 # Frameworks 👾
